@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title>SWesTech Web Splash</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -20,10 +20,10 @@
   <body>
     <div class="jumbotron">
     	<div class="container">
-    		<h1>Hello, world!</h1>
-    		<p><?php echo 'Hello World from PHP';  ?></p>
+    		<h1>This SWesTech Web Server</h1>
     		<p>
-    			<a class="btn btn-primary btn-lg">A button!</a>
+    			<img src="img/swest.jpg" alt="">
+    			Updated on viaGitHub :D
     		</p>
     	</div>
     </div>
